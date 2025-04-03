@@ -15,8 +15,6 @@ A machine learning system to predict credit card payment defaults using logistic
 - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [License](#license)
 
 ## Project Overview
 
